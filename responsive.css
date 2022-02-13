@@ -129,3 +129,9 @@
     margin-top: 50%;
   }
 }
+
+@media (max-width: 500px) {
+  .info-container-bottom {
+    margin-top: 65%;
+  }
+}
