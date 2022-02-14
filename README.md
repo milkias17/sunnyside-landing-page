@@ -4,4 +4,4 @@ A landing page for a fictional company. This is a challenge from [frontend mento
 
 ## Can I see it?
 
-Live Demo is up [here](https://modest-lamport-755f9c.netlify.app/).
+Live Demo is up <a href="https://modest-lamport-755f9c.netlify.app/" target="_blank">here</a>.
